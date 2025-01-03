@@ -2,6 +2,7 @@
 **Created by:** Hrvoje Buljan (RIT Student)  
 **Date:** December 10, 2023  
 
+
 ---
 
 ## 📖 Overview  
@@ -93,6 +94,7 @@ The app follows the **Model-View-ViewModel (MVVM)** architecture for scalability
 - **Design Patterns**: Utilizes MVC and delegation effectively.  
 - **Code Quality**: Adheres to DRY principles and uses enums for clean coding practices.  
 - **UI/UX Design**: Incorporates SwiftUI components such as `NavigationView` and `TabView`.  
+![Simulator Screenshot - iPhone 15 Pro - 2025-01-03 at 21 47 35](https://github.com/user-attachments/assets/c4fa8448-ee2d-46f7-970e-f2aca5227a76)
 
 ---
 
