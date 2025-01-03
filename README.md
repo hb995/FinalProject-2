@@ -8,6 +8,18 @@
 ## 📖 Overview  
 A Swift-based iOS application designed for movie discovery. The app integrates real-time data from the TMDb API to deliver personalized recommendations, mood-based suggestions, and an intuitive search functionality.  
 
+## Screenshots
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+
+  <img src="https://github.com/user-attachments/assets/c4fa8448-ee2d-46f7-970e-f2aca5227a76" alt="Screenshot 1" width="200" />
+  <img src="https://github.com/user-attachments/assets/4d541047-1b76-422e-8232-4493e4a529d6" alt="Screenshot 5" width="200" />
+  <img src="https://github.com/user-attachments/assets/3fd6e6bd-e6c4-48f3-bc14-eaeaeaec3748" alt="Screenshot 2" width="200" />
+  <img src="https://github.com/user-attachments/assets/fa363dde-223b-4096-8daf-fd693be84fb5" alt="Screenshot 3" width="200" />
+  <img src="https://github.com/user-attachments/assets/6159d722-0ff3-47cd-a292-cdb250ba4814" alt="Screenshot 4" width="200" />
+
+</div>
+
 ---
 
 ## 🌟 Features  
@@ -94,7 +106,7 @@ The app follows the **Model-View-ViewModel (MVVM)** architecture for scalability
 - **Design Patterns**: Utilizes MVC and delegation effectively.  
 - **Code Quality**: Adheres to DRY principles and uses enums for clean coding practices.  
 - **UI/UX Design**: Incorporates SwiftUI components such as `NavigationView` and `TabView`.  
-![Simulator Screenshot - iPhone 15 Pro - 2025-01-03 at 21 47 35](https://github.com/user-attachments/assets/c4fa8448-ee2d-46f7-970e-f2aca5227a76)
+
 
 ---
 
